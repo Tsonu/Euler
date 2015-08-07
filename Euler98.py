@@ -41,5 +41,4 @@ for key in h.keys():
       max_value.append(square)
       print square, othersqr, word, other
   
-print h
 print max(max_value)
