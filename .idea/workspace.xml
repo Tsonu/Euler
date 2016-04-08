@@ -2,94 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f72b698a-9c70-4d5d-a680-1fd5adf6eeff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Euler.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/000/Euler47.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/000/Euler54.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e103.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e106.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e107.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e107_network.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e108.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e110.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e111.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e114.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/500/e554.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosetta_primes.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Euler47.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EulerMath.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler04.py" afterPath="$PROJECT_DIR$/000/Euler04.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler06.py" afterPath="$PROJECT_DIR$/000/Euler06.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler08.py" afterPath="$PROJECT_DIR$/000/Euler08.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler09.py" afterPath="$PROJECT_DIR$/000/Euler09.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler10.py" afterPath="$PROJECT_DIR$/000/Euler10.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler11.py" afterPath="$PROJECT_DIR$/000/Euler11.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler12.py" afterPath="$PROJECT_DIR$/000/Euler12.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler13.py" afterPath="$PROJECT_DIR$/000/Euler13.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler14.py" afterPath="$PROJECT_DIR$/000/Euler14.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler15.py" afterPath="$PROJECT_DIR$/000/Euler15.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler16.py" afterPath="$PROJECT_DIR$/000/Euler16.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler17.rb" afterPath="$PROJECT_DIR$/000/Euler17.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler18.py" afterPath="$PROJECT_DIR$/000/Euler18.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler19.py" afterPath="$PROJECT_DIR$/000/Euler19.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler20.py" afterPath="$PROJECT_DIR$/000/Euler20.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler20b.py" afterPath="$PROJECT_DIR$/000/Euler20b.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler21.py" afterPath="$PROJECT_DIR$/000/Euler21.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler22.py" afterPath="$PROJECT_DIR$/000/Euler22.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler22_Names.txt" afterPath="$PROJECT_DIR$/000/Euler22_Names.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler23.py" afterPath="$PROJECT_DIR$/000/Euler23.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler24.py" afterPath="$PROJECT_DIR$/000/Euler24.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler25.py" afterPath="$PROJECT_DIR$/000/Euler25.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler26.py" afterPath="$PROJECT_DIR$/000/Euler26.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler27.py" afterPath="$PROJECT_DIR$/000/Euler27.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler28.py" afterPath="$PROJECT_DIR$/000/Euler28.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler29.py" afterPath="$PROJECT_DIR$/000/Euler29.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler30.py" afterPath="$PROJECT_DIR$/000/Euler30.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler31.py" afterPath="$PROJECT_DIR$/000/Euler31.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler32.py" afterPath="$PROJECT_DIR$/000/Euler32.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler33.py" afterPath="$PROJECT_DIR$/000/Euler33.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler34.py" afterPath="$PROJECT_DIR$/000/Euler34.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler35.py" afterPath="$PROJECT_DIR$/000/Euler35.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler36.py" afterPath="$PROJECT_DIR$/000/Euler36.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler37.py" afterPath="$PROJECT_DIR$/000/Euler37.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler38.py" afterPath="$PROJECT_DIR$/000/Euler38.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler39.py" afterPath="$PROJECT_DIR$/000/Euler39.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler40.py" afterPath="$PROJECT_DIR$/000/Euler40.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler41.py" afterPath="$PROJECT_DIR$/000/Euler41.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler42.py" afterPath="$PROJECT_DIR$/000/Euler42.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler42_Words.txt" afterPath="$PROJECT_DIR$/000/Euler42_Words.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler43.py" afterPath="$PROJECT_DIR$/000/Euler43.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler44.py" afterPath="$PROJECT_DIR$/000/Euler44.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler45.py" afterPath="$PROJECT_DIR$/000/Euler45.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler46.py" afterPath="$PROJECT_DIR$/000/Euler46.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler48.py" afterPath="$PROJECT_DIR$/000/Euler48.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler49.py" afterPath="$PROJECT_DIR$/000/Euler49.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler50.py" afterPath="$PROJECT_DIR$/000/Euler50.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler51.py" afterPath="$PROJECT_DIR$/000/Euler51.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler52.py" afterPath="$PROJECT_DIR$/000/Euler52.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler53.py" afterPath="$PROJECT_DIR$/000/Euler53.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler54.py" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler55.py" afterPath="$PROJECT_DIR$/000/Euler55.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler56.py" afterPath="$PROJECT_DIR$/000/Euler56.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler57.py" afterPath="$PROJECT_DIR$/000/Euler57.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler58.py" afterPath="$PROJECT_DIR$/000/Euler58.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler59.py" afterPath="$PROJECT_DIR$/000/Euler59.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler59_Words.txt" afterPath="$PROJECT_DIR$/000/Euler59_Words.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler98.py" afterPath="$PROJECT_DIR$/000/Euler98.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler99.py" afterPath="$PROJECT_DIR$/000/Euler99.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Euler99_words.txt" afterPath="$PROJECT_DIR$/000/Euler99_words.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dict.txt" afterPath="$PROJECT_DIR$/000/dict.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mpmath-0.18.tar.gz" afterPath="$PROJECT_DIR$/000/mpmath-0.18.tar.gz" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/p98_words.txt" afterPath="$PROJECT_DIR$/000/p98_words.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/to_words.rb" afterPath="$PROJECT_DIR$/000/to_words.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e115.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e116.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/e117.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primefac.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100/e114.py" afterPath="$PROJECT_DIR$/100/e114.py" />
     </list>
     <ignored path="Euler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/100/e110.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="59" />
+              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="66" selection-end-column="37" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -138,16 +56,54 @@
         <entry file="file://$PROJECT_DIR$/100/e114.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="26" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name="e115.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/100/e115.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e116.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/100/e116.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.094827585">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e117.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/100/e117.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.022123894">
+            <state vertical-scroll-proportion="-0.5555556">
               <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
@@ -210,6 +166,10 @@
         <option value="$PROJECT_DIR$/100/e111.py" />
         <option value="$PROJECT_DIR$/500/e554.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/100/e114.py" />
+        <option value="$PROJECT_DIR$/100/e115.py" />
+        <option value="$PROJECT_DIR$/100/e117.py" />
+        <option value="$PROJECT_DIR$/100/e116.py" />
       </list>
     </option>
   </component>
@@ -305,7 +265,7 @@
       <recent name="$PROJECT_DIR$/000" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.e108">
+  <component name="RunManager" selected="Python.e116">
     <configuration default="false" name="e108" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,7 +300,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="e111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="e114" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -352,24 +312,41 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/100/e111.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/100/e114.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="e554" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="e115" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/500" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/100" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/500/e554.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/100/e115.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="e116" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Euler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/100/e116.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -496,18 +473,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.e108" />
       <item index="1" class="java.lang.String" itemvalue="Python.e110" />
-      <item index="2" class="java.lang.String" itemvalue="Python.e111" />
-      <item index="3" class="java.lang.String" itemvalue="Python.e554" />
+      <item index="2" class="java.lang.String" itemvalue="Python.e114" />
+      <item index="3" class="java.lang.String" itemvalue="Python.e115" />
+      <item index="4" class="java.lang.String" itemvalue="Python.e116" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.e108" />
-        <item index="1" class="java.lang.String" itemvalue="Python.e110" />
-        <item index="2" class="java.lang.String" itemvalue="Python.e554" />
-        <item index="3" class="java.lang.String" itemvalue="Python.e111" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.e116" />
+        <item index="1" class="java.lang.String" itemvalue="Python.e115" />
+        <item index="2" class="java.lang.String" itemvalue="Python.e114" />
+        <item index="3" class="java.lang.String" itemvalue="Python.e108" />
+        <item index="4" class="java.lang.String" itemvalue="Python.e110" />
       </list>
     </recent_temporary>
   </component>
@@ -522,18 +501,26 @@
       <option name="number" value="Default" />
       <updated>1459781996431</updated>
     </task>
+    <task id="LOCAL-00001" summary="new files">
+      <created>1460127532648</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1460127532648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18819444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18819444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -558,8 +545,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/100/e116.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -567,7 +565,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="48" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -814,16 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/100/e110.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/100/e111.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -852,19 +840,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/100/e114.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.5555556">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/100/e110.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022123894">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="66" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100/e115.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100/e114.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100/e117.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100/e116.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.094827585">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

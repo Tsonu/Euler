@@ -3,8 +3,9 @@ import copy
 from euler import *
 import datetime
 
+
 def count_blocks(line_length, min_size, cache):
-    solutions = 1
+    solutions = 0
     if min_size > line_length:
         return solutions
 
@@ -12,8 +13,8 @@ def count_blocks(line_length, min_size, cache):
         return cache[line_length]
 
     for start_pos in range(0, line_length - min_size + 1):
-        for block_length in range(min_size, line_length - start_pos + 1):
-            solutions += count_blocks(line_length - start_pos - block_length - 1, min_size, cache)
+        solutions += 1
+        solutions += count_blocks(line_length - start_pos - min_size, min_size, cache)
 
     if line_length not in cache:
         cache.update({line_length: solutions})
@@ -24,6 +25,11 @@ def count_blocks(line_length, min_size, cache):
 start = datetime.datetime.now()
 
 cache = {}
-print count_blocks(50, 3, cache)
+red = count_blocks(50, 2, cache)
+cache = {}
+green = count_blocks(50, 3, cache)
+cache = {}
+blue = count_blocks(50, 4, cache)
 
+print 'totals', red, green, blue, red + green + blue
 print datetime.datetime.now() - start

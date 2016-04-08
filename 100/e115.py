@@ -24,6 +24,13 @@ def count_blocks(line_length, min_size, cache):
 start = datetime.datetime.now()
 
 cache = {}
-print count_blocks(50, 3, cache)
+n = 50
+while True:
+    blocks =  count_blocks(n, 50, cache)
+    print n, blocks
+    if blocks > 1e6:
+        break
+
+    n += 1
 
 print datetime.datetime.now() - start
