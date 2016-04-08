@@ -1,5 +1,5 @@
 import EulerMath
-primes = EulerMath.primes(10**7)
+primes = EulerMath.primes(10 ** 7)
 
 total = 1
 primeCount = 0

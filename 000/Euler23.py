@@ -1,5 +1,5 @@
 import EulerMath
-import cProfile
+
 
 def abundantNumbers(n):
   abundant = []

@@ -1,4 +1,3 @@
-import math
 import EulerMath
 primes = EulerMath.primes(1000)
 print primes

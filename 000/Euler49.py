@@ -1,5 +1,6 @@
-import EulerMath
 import itertools
+
+import EulerMath
 
 primes = EulerMath.primes(10000)
 primes2 = EulerMath.primes(1488)
